@@ -144,8 +144,6 @@ El reporte incluye:
 
 ```
 playwright-simple-tests/
-├── helpers/
-│   └── testData.ts               # Generador de datos de prueba Faker (TypeScript)
 ├── tests/
 │   ├── 01homepage.spec.ts        # Pruebas de página principal
 │   ├── 02contact-form.spec.ts    # Pruebas de formulario de contacto (usa Faker)
