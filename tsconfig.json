@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES2023",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "types": ["node", "playwright"],
+    "lib": ["ES2023"],
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": ["tests", "playwright.config.ts"]
+}
