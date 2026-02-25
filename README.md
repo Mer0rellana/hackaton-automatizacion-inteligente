@@ -4,7 +4,7 @@ Casos de prueba funcionales y de UI para **https://automationintesting.online/**
 
 **✨ Construido con TypeScript y Faker.js para generación dinámica de datos de prueba!**
 
-## 📋 Cobertura de Pruebas (36 Casos de Prueba)
+## 📋 Cobertura de Pruebas (29 Casos de Prueba)
 
 ### 1. Pruebas de Página Principal (6 pruebas)
 - TC001: Verificar que la página principal carga exitosamente
